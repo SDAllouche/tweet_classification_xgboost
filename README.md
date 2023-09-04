@@ -93,8 +93,8 @@ k-fold is a technique used in machine learning to evaluate the performance of a 
 
 <table>
   <tr>
-    <td></td>
-    <td></td>
+    <td ><img src='https://github.com/SDAllouche/tweet_classification_xgboost/assets/102489525/4eb534fc-c48e-4ddc-a507-354cbd7ced10'></td>
+    <td><img src='https://github.com/SDAllouche/tweet_classification_xgboost/assets/102489525/ac94dbdf-10cc-4dfa-a599-56226e29d428'></td>
   </tr>
 </table>
 
